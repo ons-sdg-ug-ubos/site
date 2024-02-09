@@ -214,9 +214,9 @@ progress_status:
   status_help: ''
   status_types: []
 progressive_web_app:
-  enabled: false
-  name: ''
-  short_name: ''
+  enabled: true
+  name: Sustainable Development Goals  - Uganda
+  short_name: SDGs Uganda
   precaching: false
 proxy_indicators:
   label: ''
