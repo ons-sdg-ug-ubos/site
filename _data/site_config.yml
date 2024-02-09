@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: Uganda
+  adjective: Ugandan
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -56,9 +56,9 @@ disclaimer:
   message: ''
   hidden: false
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: ubos@ubos.org
+  suggestions: ubos@ubos.org
+  functional: ubos@ubos.org
 empty_metadata_placeholder: ''
 empty_metadata_placeholder_sources: ''
 environment: staging
@@ -66,9 +66,9 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://twitter.com/StatisticsUg'
     translation_key: general.twitter
-  - path: 'https://facebook.com/MyFacebookAccount'
+  - path: 'https://facebook.com/UgandaBureauOfStatistics'
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
