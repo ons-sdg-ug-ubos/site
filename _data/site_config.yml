@@ -79,21 +79,19 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Publications
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      Data Gap Analysis For SDG 16 In Uganda
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: Download Report
+    button_link: 'https://www.ubos.org/wp-content/uploads/publications/06_2020SDG_16_BOOK_REPORT.pdf'
     rule_color: ''
-  - title: Nam vestibulum
+  - title: Useful Resources
     content: |
-      Nam vestibulum, purus quis porttitor imperdiet, nisl sem mollis nisl, a
-      interdum risus enim vitae tortor. Donec feugiat accumsan rutrum.
+      The Global Goals
     include: ''
     button_label: Read more
-    button_link: 'https://example.com'
+    button_link: 'https://www.globalgoals.org/'
     rule_color: ''
 frontpage_goals_grid:
   title: frontpage.heading_short
