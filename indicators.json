@@ -1203,7 +1203,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/10-b-1/",
-          "status": "notstarted"
+          "status": "complete"
         },
         {
           "id": "10-c-1",
@@ -1211,7 +1211,7 @@
           "description": "",
           "keywords": "",
           "href": "/site/10-c-1/",
-          "status": "notstarted"
+          "status": "complete"
         }]
     }
   },
