@@ -98,6 +98,11 @@ frontpage_cards:
     content: The Official Statistics Provider for Uganda
     button_label: Read More
     button_link: https://www/ubos.org
+  - title: Publications
+    content: Annual Indicator Report For the Sustainable Development Goals - June 2025
+    button_label: Download Report
+    button_link: >-
+      https://www.ubos.org/wp-content/uploads/2025/11/Annual-Indicator-Report-For-The-Sustainable-Development-Goals-June-2025.pdf
 frontpage_goals_grid:
   title: frontpage.heading_short
   description: frontpage.instructions_shorter
@@ -202,29 +207,29 @@ progress_status:
   status_heading: status.progress_status
   status_help: ''
   status_types:
-  - value: not_available
-    label: status.progress_not_available
-    alt: status.progress_not_available
-  - value: deterioration
-    label: status.deterioration
-    image: assets/img/progress/red-gauge.png
-    alt: status.deterioration
-  - value: limited_progress
-    label: status.limited_progress
-    image: assets/img/progress/orange-gauge.png
-    alt: status.limited_progress
-  - value: moderate_progress
-    label: status.moderate_progress
-    image: assets/img/progress/yellow-gauge.png
-    alt: status.moderate_progress
-  - value: substantial_progress
-    label: status.substantial_progress
-    image: assets/img/progress/green-gauge.png
-    alt: status.substantial_progress
-  - value: target_achieved
-    label: status.target_achieved
-    image: assets/img/progress/target-achieved-gauge.png
-    alt: status.target_achieved
+    - value: not_available
+      label: status.progress_not_available
+      alt: status.progress_not_available
+    - value: deterioration
+      label: status.deterioration
+      image: assets/img/progress/red-gauge.png
+      alt: status.deterioration
+    - value: limited_progress
+      label: status.limited_progress
+      image: assets/img/progress/orange-gauge.png
+      alt: status.limited_progress
+    - value: moderate_progress
+      label: status.moderate_progress
+      image: assets/img/progress/yellow-gauge.png
+      alt: status.moderate_progress
+    - value: substantial_progress
+      label: status.substantial_progress
+      image: assets/img/progress/green-gauge.png
+      alt: status.substantial_progress
+    - value: target_achieved
+      label: status.target_achieved
+      image: assets/img/progress/target-achieved-gauge.png
+      alt: status.target_achieved
 progressive_web_app:
   enabled: true
   name: Sustainable Development Goals - Uganda
